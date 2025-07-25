@@ -1,0 +1,85 @@
+#theme5 {
+    font-family: 'Segoe UI', sans-serif;
+    padding: 30px;
+    background: #f8f9fa;
+    color: #212529;
+}
+
+.header-section {
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid #343a40;
+    padding-bottom: 20px;
+}
+
+.profile-img-box {
+    margin-right: 25px;
+}
+
+.profile-img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #343a40;
+}
+
+.header-content .name {
+    margin: 0;
+}
+
+.profile-title {
+    font-weight: 500;
+    color: #495057;
+}
+
+.summary-text {
+    font-size: 0.9rem;
+    margin-top: 10px;
+    color: #6c757d;
+}
+
+.contact-skill-section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #adb5bd;
+}
+
+.contact-box, .skill-box {
+    width: 48%;
+}
+
+.section-title {
+    color: #343a40;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.skill-badge {
+    background-color: #343a40;
+    color: #fff;
+    padding: 4px 10px;
+    border-radius: 8px;
+}
+
+.content-section {
+    margin-top: 20px;
+}
+
+.entry {
+    margin-bottom: 20px;
+}
+
+.desc-list {
+    margin-left: 20px;
+    color: #495057;
+    font-size: 0.9rem;
+}
