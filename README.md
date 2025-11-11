@@ -25,8 +25,6 @@ Built using **React.js** and **Context API**, it provides a user-friendly interf
 | Styling | Chakra UI |
 | Tools | html2canvas, jsPDF |
 
----
-
 
 ---
 
