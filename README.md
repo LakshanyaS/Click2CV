@@ -1,7 +1,7 @@
-# 📄 Resume Builder
+# 📄 Click2CV
 
 ## 🧭 Project Overview
-The **Resume Builder** is a web-based application that helps users easily create and preview professional resumes.  
+The **Click2CV** is a web-based application that helps users easily create and preview professional resumes.  
 Built using **React.js** and **Context API**, it provides a user-friendly interface for filling in personal, educational, and work details — all rendered live in the preview.
 
 ---
@@ -58,6 +58,7 @@ Built using **React.js** and **Context API**, it provides a user-friendly interf
 
 ## 👩‍💻 Author
 Lakshanya S
+
 lakshanyasankar2005@gmail.com
 
 ---
